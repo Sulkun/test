@@ -7,3 +7,6 @@ var str1 = "second update"
 var str2 = "셋번째 업로드"
 
 var str3 = "네번째 업로드"
+
+var str4 = "네번째 이름 변경"
+
